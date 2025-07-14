@@ -8,6 +8,15 @@
 - **College:** Hindustan College of science and technology  
 
 ## Description
+
+
+### Retrieving URL Statistics (Insomnia)
+
+
+![Get Short URL Statistics API Call](Output/Post.png "Postman request and response for short URL statistics")
+
+![Get Short URL Statistics API Call](Output/Get.png "Postman request and response for short URL statistics")
+
 # HTTP URL Shortener Microservice
 
 This project is a backend microservice built with **Node.js** and **Express.js** that provides URL shortening functionality. It allows users to create, manage, and track shortened URLs.

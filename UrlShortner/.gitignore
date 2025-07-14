@@ -1,0 +1,71 @@
+# Node.js
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+.report/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for application data
+.nyc_output
+.grunt
+
+# Temporary files
+.tmp
+
+# IDEs and Editors
+.idea/                  # JetBrains IDEs (IntelliJ, WebStorm, etc.)
+.vscode/                # VS Code (except settings.json and extensions.json if you want to share them)
+*.sublime-project
+*.sublime-workspace
+.DS_Store               # macOS system files
+Thumbs.db               # Windows thumbnail cache
+
+# Dependency directories
+node_modules/           # Node.js module dependencies
+
+# dotenv environment variables
+.env                    # Contains sensitive information (client IDs, secrets, etc.)
+
+# Build artifacts
+dist/
+build/
+coverage/
+
+# Misc
+.npm/
+.eslintcache
+.parcel-cache
+.cache/
+/tmp
+
+# If you ever use a package manager other than npm (e.g., yarn, pnpm)
+yarn.lock
+package-lock.json       # Typically committed, but if you have a monorepo setup that uses yarn/pnpm workspaces,
+                        # you might ignore this in sub-packages and only commit the root one.
+                        # For a single project, it's usually good to keep package-lock.json.
+                        # If you are using pnpm, uncomment the next line:
+# pnpm-lock.yaml
+
+# Compiled files
+*.js.map
+*.ts.map
+
+# Test specific
+/cypress/videos/
+/cypress/screenshots/
+
+# Uploads or temporary data directories (if your app creates them)
+/uploads/
+/temp/
