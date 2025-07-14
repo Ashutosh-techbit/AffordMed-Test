@@ -2,18 +2,17 @@
 
 ## Personal Details
 
-- **Name:** John Doe  
-- **Roll No:** 123456789  
+- **Name:** Ashutosh Bansal  
+- **Roll No:** 2200640100034
 - **Course:** B.Tech in Computer Science  
-- **College:** XYZ University  
-- **Semester:** 5th  
+- **College:** Hindustan College of science and technology  
 
 ## Description
 
 This project is a [brief description of your project here].  
 It is developed as part of the academic curriculum and demonstrates skills in [mention any technologies/languages/frameworks used].
 
-## Features
+<!-- ## Features
 
 - Feature 1
 - Feature 2
@@ -23,4 +22,4 @@ It is developed as part of the academic curriculum and demonstrates skills in [m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/your-repo-name.git -->
