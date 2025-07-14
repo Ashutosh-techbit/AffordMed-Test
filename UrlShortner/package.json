@@ -1,0 +1,19 @@
+{
+  "name": "url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.x.x",
+    "dotenv": "^16.x.x",
+    "express": "^4.x.x",
+    "nanoid": "^3.x.x"
+  }
+}
